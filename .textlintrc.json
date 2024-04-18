@@ -1,0 +1,16 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-technical-writing": {
+      "ja-no-mixed-period": {
+        "allowPeriodMarks": [
+          ":"
+        ]
+      },
+      "no-exclamation-question-mark": {
+        "allowHalfWidthExclamation": true
+      }
+    }
+  }
+}
